@@ -1,0 +1,25 @@
+/* Add your custom CSS styles here */
+/* For example: */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#searchInput {
+  padding: 5px;
+  width: 200px;
+}
+
+#searchButton {
+  margin-left: 10px;
+}
